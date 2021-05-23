@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{DD7CDDD0-AF18-FF42-55AE-249A827C1D87}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DifficultyButton.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Target.cs" Line="11" Column="26" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="54" Column="29" />
+      <File FileName="Assets/Scripts/DifficultyButton.cs" Line="15" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e6958bf4-cc2d-4e11-bd19-5f527a569108" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
